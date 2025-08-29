@@ -1,15 +1,21 @@
-nano README.md
-# Week 2  
+# Week 2
 
-## Topics Covered  
-- **Day 1 Recap**: Variables, Data Types, Strings  
-- **Day 2**: Lists, Tuples, Dictionaries, Sets  
+## Day 2 – Python Essentials
+- Practiced variables, data types (`int`, `float`, `str`, `bool`)
+- Worked with strings (slicing, `.lower()`)
+- Built lists, tuples, dictionaries, and sets
+- Challenge: I struggled a little with **tuples** and **dictionaries**, but reviewing examples helped me understand them better.
 
-## Notes  
-- I felt confident with **variables, data types, and strings**.  
-- I had **some troubles with tuples and dictionaries**, but I worked through them with exercises and practice.  
-- By the end, I was able to create and use all 4 data structures in Python.  
+## Day 3 – Control Flow
+- Learned `if`, `elif`, `else` statements
+- Practiced `for` loops (iterating over ranges and lists)
+- Practiced `while` loops
+- Explored `break` and `continue`
+- Challenge: My first attempts had syntax mistakes with comparison operators and string formatting inside loops. Fixed by carefully checking the syntax.
 
-This week gave me a stronger foundation in Python essentials, and I’m ready to move into **control flow (if/else, loops)** next.
+---
 
-
+📝 **Notes to myself:**  
+- Always test small code snippets in Jupyter before adding more complexity.  
+- Remember: `elif grade >= 80` not `=>`.  
+- Print formatting is easier using `f"..."`.  
