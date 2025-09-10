@@ -58,7 +58,6 @@ By the end of this bootcamp I will have:
 
 ---
 
-## 🤝 Connect
 
 📌 *This repository is a work in progress. Check back for new commits each week!*
 
