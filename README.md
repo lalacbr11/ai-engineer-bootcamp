@@ -1,63 +1,71 @@
-# 🚀 AI Engineer Bootcamp
+# AI Engineer Bootcamp
 
-Welcome to my **AI Engineer Bootcamp** repository.  
-This repo documents my **6-month self-study program** to become an **AI / MLOps & Data Engineering professional**, built alongside my college coursework in Database Programming & Administration.  
-
----
-
-## 📂 Repository Structure
-
-- **week1/** → Python Basics (variables, data types, control flow, functions)  
-- **week2/** → Python Essentials (lists, dictionaries, sets, loops, functions)  
-- **future weeks/** → SQL, Data Analysis, Statistics, Machine Learning, MLOps, Capstone Project  
+This repository documents a 6-month self-study program designed to build
+professional competency in AI Engineering, Data Engineering, and MLOps,
+developed alongside college coursework in Database Programming & Administration.
 
 ---
 
-## 🛠️ Tech Stack
+## Repository Structure
 
-- **Python 3.13** (with virtualenv)  
-- **Jupyter Notebooks** for interactive learning  
-- **Git/GitHub** for version control  
-- **VS Code** as IDE  
-- *(coming soon: PostgreSQL, PostGIS, Docker, Airflow, AWS)*  
+- **week1/** — Python Basics (variables, data types, control flow, functions)
+- **week2/** — Python Essentials (lists, dictionaries, sets, loops, functions)
+- **future weeks/** — SQL, Data Analysis, Statistics, Machine Learning, MLOps, Capstone
 
 ---
 
-## 📅 Progress
+## Tech Stack
 
-### ✅ Week 1 – Python Basics
-- Learned variables, data types, and string operations  
-- Practiced control flow: `if` / `elif` / `else`  
-- Wrote basic Python functions with parameters and return values  
-📓 *See notebooks in `week1/`*  
-
-### ✅ Week 2 – Python Essentials (in progress)
-- Working with lists, dictionaries, and sets  
-- Practicing loops (`for`, `while`, `break`, `continue`)  
-- Exploring function arguments (default, keyword)  
-📓 *See notebooks in `week2/`*  
-
-### ⏳ Upcoming
-- **Week 3–4:** SQL & Relational Databases (schema design, CRUD, joins)  
-- **Week 5–6:** Geospatial Databases (PostgreSQL + PostGIS)  
-- **Week 7–8:** Data Ingestion Pipeline (ETL, validation, transformation)  
-- **Week 9–10:** Hotspot Modeling (KDE, ML models)  
-- **Week 11–12:** API + Visualization (map UI)  
+- Python 3.13 (with virtualenv)
+- Jupyter Notebooks
+- Git / GitHub
+- VS Code
+- Planned: PostgreSQL, PostGIS, Docker, Airflow, AWS
 
 ---
 
-## 🚀 Goal
+## Progress
 
-By the end of this bootcamp I will have:  
-- A **portfolio of projects** in Python, SQL, MLOps, and AI  
-- A **capstone project**: *Abduction Risk Hotspot Prediction*  
-   - Build a geospatial database with PostgreSQL + PostGIS  
-   - Train models (KDE, XGBoost) for location risk scoring  
-   - Deploy results with an API + map UI  
-- The skills to start a career in **MLOps & AI Infrastructure**  
+### Week 1 — Python Basics (complete)
+- Variables, data types, and string operations
+- Control flow: if / elif / else
+- Functions with parameters and return values
+
+### Week 2 — Python Essentials (complete)
+- Lists, dictionaries, and sets
+- Loops: for, while, break, continue
+- Function arguments: default and keyword
+
+### Upcoming
+- Week 3–4: SQL and Relational Databases (schema design, CRUD, joins)
+- Week 5–6: Geospatial Databases (PostgreSQL + PostGIS)
+- Week 7–8: Data Ingestion Pipeline (ETL, validation, transformation)
+- Week 9–10: Risk Scoring and Pattern Analysis
+- Week 11–12: API and Visualization layer
 
 ---
 
+## Capstone Project — HT-RAS (Human Trafficking Risk Assessment System)
 
-📌 *This repository is a work in progress. Check back for new commits each week!*
+HT-RAS is a structured, data-driven risk assessment system built on publicly
+available, anonymized datasets. It is designed to demonstrate responsible data
+engineering, relational database design, aggregated pattern analysis, and
+ethical AI thinking — without individual-level inference or automated
+decision-making.
 
+**Core components:**
+- Relational schema design with PostgreSQL and PostGIS
+- Data cleaning and transformation workflows in Python
+- Aggregated risk indicator scoring at the geographic level
+- Dashboard and API layer for reporting and visualization
+
+Full capstone development resumes post-graduation, May 2026.
+
+---
+
+## Goal
+
+To build a professional portfolio demonstrating applied skills in Python, SQL,
+data engineering, and ethical AI system design — with the capstone project
+serving as the centerpiece for roles in AI Engineering, Data Engineering, and
+Responsible AI.
